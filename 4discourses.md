@@ -33,13 +33,4 @@ tail  S2
 null  a
 
 
-# C++:
-
-master  init 
-
-analyst typeof
-
-hysteric  new
-
-university  class
 
