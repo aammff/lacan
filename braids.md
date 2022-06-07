@@ -1,7 +1,7 @@
 
-Register | Object lack | verb  | time | IT
+Haskell | Register | Object lack | verb  | time | IT
 ---------|-------------|-------|-------|---------
-Symbolic | castration  |  was, is not, will not be  |   past | software
-Real | privation | was not, is not, will not be  | present | hardware
-Imaginary | frustration | was, is not, maybe will be | future | state
+a | Symbolic | castration  |  was, is not, will not be  |   past | software
+IO a | Real | privation | was not, is not, will not be  | present | hardware
+a -> b | Imaginary | frustration | was, is not, maybe will be | future | state
 
