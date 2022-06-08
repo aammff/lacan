@@ -17,3 +17,6 @@ mutation
 levenstein distance
 
 usterka glitch flaw flow
+
+concurrent computing
+  jouissance  
