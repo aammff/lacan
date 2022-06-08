@@ -10,3 +10,8 @@ metonymy - karma - https://github.com/mxgmn/WaveFunctionCollapse
 possible impossible
 actual nonactual
 contingent necessary
+
+
+
+mutation
+levenstein distance
