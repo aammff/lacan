@@ -15,3 +15,5 @@ contingent necessary
 
 mutation
 levenstein distance
+
+usterka glitch flaw flow
