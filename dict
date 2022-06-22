@@ -5,6 +5,7 @@ demand - object oriented programming
 
 4 discourses - remote procedure call, server - hyseric, client - master,    remote procedure, continuation creation/serialization, university - create/serialize, analyst - delete/deserialize
     https://en.wikipedia.org/wiki/Process_calculus  data sending / receiving,  channel name allocation/dealloation
+    https://en.wikipedia.org/wiki/Ambient_calculus mobility [university, analyst]
     
 
 L schema - sidechannel attacks
