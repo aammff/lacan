@@ -1,3 +1,12 @@
+# Tarot
+master  wands
+
+university  pentacles
+
+hysteric  cups
+
+analyst swords
+
 # Prolog:
 
 
