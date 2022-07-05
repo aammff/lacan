@@ -13,6 +13,8 @@ monad transformer, passand, former analyst - analyst former
 
 S1 reference &
 S2 pointer *
+$ cons
+a continuation
 
 4 discourses:
 hysteric lambda
