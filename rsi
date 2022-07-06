@@ -13,6 +13,7 @@ monad either, unconscious
 
 monad list, ego
 
+monad identity, subject
 
 $<>a call-with-current-continuation
 
