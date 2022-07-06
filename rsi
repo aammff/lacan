@@ -9,7 +9,9 @@ monad maybe, pass
 
 monad transformer, passand
 
-monad either unconscious
+monad either, unconscious
+
+monad list, ego
 
 
 $<>a call-with-current-continuation
