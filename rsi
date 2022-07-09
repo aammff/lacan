@@ -4,22 +4,19 @@ R monad IO, analysand
 E monad writer, cartel
 
 monad state, school
-
 monad maybe, pass
-
 monad transformer, passand
 
 monad either, unconscious
-
 monad list, ego
 
 monad identity, subject
 
-$<>a call-with-current-continuation
+Ꞩ◊a call-with-current-continuation
 
 S1 reference &
 S2 pointer *
-$ s-expression
+Ꞩ s-expression
 a continuation
 
 5 discourses
