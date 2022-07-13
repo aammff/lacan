@@ -1,0 +1,30 @@
+\documentclass{article}
+
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{fancyvrb}
+
+% redefine \VerbatimInput
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{fontsize=\footnotesize,
+ %
+ frame=lines,  % top and bottom rule only
+ framesep=2em, % separation between frame and text
+ rulecolor=\color{Gray},
+ %
+ label=\fbox{\color{Black}data.txt},
+ labelposition=topline,
+ %
+ commandchars=\|\(\), % escape character and argument delimiters for
+                      % commands within the verbatim
+ commentchar=*        % comment character
+}
+
+\begin{document}
+
+\VerbatimInput{rsi}
+\VerbatimInput{paradigms}
+\VerbatimInput{drive}
+\VerbatimInput{NE555}
+
+\end{document}
