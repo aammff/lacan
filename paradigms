@@ -6,5 +6,5 @@ perversion, object oriented programming
 declarative:
 unconscious, database programming
 phobia, logic programming
-neurosis, functional programming
-lacan, monadic programming
+neurosis, strict functional programming
+lacan, lazy monadic programming
