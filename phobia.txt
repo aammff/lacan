@@ -1,3 +1,5 @@
+prolog, logic programming:
+
 sld resolution - revolving junction [plaque tournante]
 green cut - neurosis
 red cut - perversion
