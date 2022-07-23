@@ -7,4 +7,4 @@ declarative:
 unconscious, database programming
 phobia, logic programming
 neurosis, functional programming
-lacanian, pure non-strict monadic programming
+subject, pure non-strict monadic programming
