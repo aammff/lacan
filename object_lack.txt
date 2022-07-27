@@ -1,0 +1,3 @@
+privation,  copy assigment operator
+frustration,  copy constructor
+castration, constructor
