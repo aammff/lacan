@@ -1,3 +1,3 @@
-privation,  pop opcode
+privation,  bus error
 frustration,  virtual destructor
-castration, garbage collection
+castration, garbage collector
