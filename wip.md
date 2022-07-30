@@ -22,3 +22,11 @@ concurrent computing
   jouissance  
 
 /dev/null
+
+
+r controller
+s model
+i view
+
+uncanny
+
