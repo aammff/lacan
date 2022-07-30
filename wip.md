@@ -30,3 +30,4 @@ i view
 
 uncanny
 
+borromean    NAND, NOR, functional completeness
