@@ -32,3 +32,11 @@ uncanny
 
 borromean    NAND, NOR, functional completeness
 
+
+
+invalid loop:
+pass, context switch
+context switch, metaphor
+metaphor, cartesian product
+cartesian product, subject
+
