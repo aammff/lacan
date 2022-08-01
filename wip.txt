@@ -41,4 +41,5 @@ metaphor, cartesian product
 cartesian product, subject
 
 
-hash function, beta-reduction, chesire cat
+? hash function, beta-reduction, chesire cat, cache invalidation, ?obsession
+? adt? alpha conversion, naming things, ?hysteria
