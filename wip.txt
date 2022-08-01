@@ -40,3 +40,5 @@ context switch, metaphor
 metaphor, cartesian product
 cartesian product, subject
 
+
+hash function, beta-reduction, chesire cat
