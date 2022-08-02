@@ -41,5 +41,8 @@ metaphor, cartesian product
 cartesian product, subject
 
 
-? hash function, beta-reduction, chesire cat, cache invalidation, ?obsession
-? adt? alpha conversion, naming things, ?hysteria
+separation ? hash function, beta-reduction, chesire cat, cache invalidation, ?obsession
+alienation ? adt? alpha conversion, naming things, ?hysteria
+
+https://en.wikipedia.org/wiki/Holophrasis
+https://en.wikipedia.org/wiki/Incorporation_(linguistics)
