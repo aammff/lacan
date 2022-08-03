@@ -1,0 +1,2 @@
+sin^2 alpha + cos^2 alpha = 1
+e^(i*pi) +1 = 0
