@@ -12,3 +12,7 @@ teeth
 
 neck
 throat
+
+torso trunk
+arms
+legs
