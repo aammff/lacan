@@ -46,3 +46,6 @@ alienation ? adt? alpha conversion, naming things, ?hysteria
 
 https://en.wikipedia.org/wiki/Holophrasis
 https://en.wikipedia.org/wiki/Incorporation_(linguistics)
+
+
+virtual memory / pagining
