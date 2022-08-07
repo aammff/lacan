@@ -1,0 +1,8 @@
+noun, variable name; bounded variable
+verb, d(noun)/dt
+adjective,  noun_1 - noun_2
+adverb, d/dt
+pronoun, free variable
+preposition, ADT
+conjunction, s-expr, AST, logic, monad, monoid
+interjection, exception
