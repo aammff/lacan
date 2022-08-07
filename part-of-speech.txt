@@ -1,8 +1,8 @@
 noun, variable name; bounded variable; paradigmatic; ?imaginary
-verb, d(noun)/dt; syntagmatic; ?symbolic
-adjective,  noun_1 - noun_2
+verb, d(noun)/dt; syntagmatic; ?symbolic, metonymy
+adjective,  noun_1 - noun_2; paradigmatic difference, metaphor
 adverb, d/dt
 pronoun, free variable
-preposition, ADT
-conjunction, s-expr, AST, logic, monad, monoid
+preposition, ADT, ?sum type
+conjunction, s-expr, AST, logic, monad, monoid, ?product type
 interjection, exception; ?real
