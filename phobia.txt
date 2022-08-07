@@ -5,4 +5,4 @@
 ?red cut - perversion
 
 palindromes
-graph cycles
+graph cycles; min degree of vertices > 1
