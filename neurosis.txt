@@ -1,5 +1,0 @@
-neurosis, proof theory structural rule
-
-phobia, exchange
-hysteria, weakening
-obsession, contraction
