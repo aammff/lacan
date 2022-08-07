@@ -1,5 +1,8 @@
-prolog, logic programming:
+?prolog, logic programming:
 
-sld resolution - revolving junction [plaque tournante]
-green cut - neurosis
-red cut - perversion
+?sld resolution - revolving junction [plaque tournante]
+?green cut - neurosis
+?red cut - perversion
+
+palindromes
+graph cycles
