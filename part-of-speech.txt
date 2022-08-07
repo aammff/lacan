@@ -1,5 +1,5 @@
-noun, variable name; bounded variable
-verb, d(noun)/dt
+noun, variable name; bounded variable; paradigmatic
+verb, d(noun)/dt; syntagmatic
 adjective,  noun_1 - noun_2
 adverb, d/dt
 pronoun, free variable
