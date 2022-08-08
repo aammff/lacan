@@ -1,5 +1,5 @@
-Tripartite Structure
+tripartite structure
 
-the instant of seeing; WHNF
-the time for understanding; HNF
-the moment of concluding; NF
+instant of seeing, WHNF
+time for understanding, HNF
+moment of concluding, NF

@@ -2,7 +2,5 @@ analysand, invalid
 analyst, context
 psychoanalysis, invalid context
 
-analyst = sinthome, tail recursion modulo cons
-  where cons = call with current continuation
-
+context, call with current continuation
 psychoanalytical text, serialized current continuation

@@ -1,7 +1,6 @@
-neurosis, proof theory structural rule, discourse
+symptom, proof theory structural rule, discourse
 
 phobia, exchange, university
 hysteria, weakening, hysteric
 obsession, contraction, master
-
 analysis, cut, analyst
