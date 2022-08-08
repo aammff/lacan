@@ -19,7 +19,7 @@ levenstein distance
 usterka glitch flaw flow
 
 concurrent computing
-  jouissance  
+  jouissance
 
 /dev/null
 
@@ -48,4 +48,4 @@ https://en.wikipedia.org/wiki/Holophrasis
 https://en.wikipedia.org/wiki/Incorporation_(linguistics)
 
 
-virtual memory / pagining
+virtual memory / paging

@@ -1,7 +1,7 @@
-neurosis, proof theory structural rule,   ? discourse
+neurosis, proof theory structural rule, discourse
 
-phobia, exchange,   ?university
-hysteria, weakening,  ?hysteric
-obsession, contraction,   ?master
+phobia, exchange, university
+hysteria, weakening, hysteric
+obsession, contraction, master
 
-? analysis, cut rule,    ?analyst
+analysis, cut, analyst
