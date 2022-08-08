@@ -1,0 +1,6 @@
+symptom, proof theory structural rule
+
+phobia, exchange
+hysteria, weakening
+obsession, contraction
+analysis, cut
