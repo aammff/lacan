@@ -1,1 +1,1 @@
-linear logic
+ordered linear logic
