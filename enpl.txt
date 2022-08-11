@@ -1,0 +1,87 @@
+EN / PL
+==> object lack / brak obiektu <==
+privation, segmentation fault / pozbawienie, naruszenie ochrony pamięci
+frustration, unreachable object / frustracja, nieosiągalny obiekt
+castration, tail-call elimination / kastracja, eliminacja wywołania ogonowego
+
+==> object petit a <==
+ordered linear logic / uporządkowana logika liniowa
+
+==> osi <==
+layer, structure / warstwa, struktura
+
+application, sinthome / aplikacji, sinthome
+presentation, phobia / prezentacji, fobia
+session, neurosis / sesji, neuroza
+transport, unconscious / transportowa, nieświadome
+network, perversion / sieciowa, perwersja
+data link, psychosis / łącza danych, psychoza
+physical, autism / fizyczna, autyzm
+
+==> parts of speech / części mowy <==
+noun, variable name; bounded variable; paradigmatic; ?imaginary / rzeczownik, nazwa zmiennej; zmienna związana; paradygmatyczny; ?wyobrażeniowe
+verb, d(noun)/dt; syntagmatic; ?symbolic, metonymy / czasownik d(rzeczownik)/dt; syntagmatyczny; ?symboliczne, metonimia
+adjective,  noun_1 - noun_2; paradigmatic difference, metaphor / przymiotnik, rzeczownik_1 - rzeczownik_2; różnica paradygmatyczna, metafora
+adverb, d/dt / przysłówek, d/dt
+pronoun, free variable / zaimek, zmienna wolna
+preposition, ADT, ?sum type / przyimek, ADT, ?typ sumowy
+conjunction, s-expr, AST, logic, monad, monoid, ?product type / spójnik, s-wyrażenie, AST, logika, monada, monoid, ?typ iloczynowy
+interjection, exception; ?real / wykrzyknik, wyjątek; ?realne
+
+==> psychoanalysis / psychoanaliza <==
+analysand, invalid / analizant, nieprawidłowy
+analyst, context / analityk, kontekst
+psychoanalysis, invalid context / psychoanaliza, nieprawidłowy kontekst
+
+context, call with current continuation / kontekst, wywołanie z bieżącą kontynuacją
+psychoanalytical text, serialized current continuation / tekst psychoanalityczny, serializacja bieżącej kontynuacji
+
+==> rsi <==
+S monad reader, symptom / symptom
+I monad cont, analyst / analityk
+R monad IO, analysand / analizant
+Σ monad writer, cartel / kartel
+
+monad state, school / szkoła
+monad maybe, pass / pass
+monad transformer, passand / passant
+
+monad either, unconscious / nieświadome
+monad list, ego / ego
+
+monad identity, subject / podmiot
+
+Ꞩ◊a call-with-current-continuation / wywołanie-z-bieżącą-kontynuacją
+
+S1 reference & / referencja
+S2 pointer * / wskaźnik
+Ꞩ s-expression / s-wyrażenie
+a continuation / kontynuacja
+
+4 discourses / 4 dyskursy
+hysteric lambda / histeryka
+university quote / uniwersytecki
+analyst eval / analityka
+master apply / mistrza
+capitalist meta-circular-evaluator / kapitalisty ewaluator-meta-cyrkularny
+
+l schema, side-channel attack / schemat l, atak kanałem bocznym
+jouissance, computation side effect / skutek uboczny obliczeń
+
+graph of desire - comonad / graf pragnienia - komonada
+graph of sexuation - monad / graf upłciowienia - monada
+
+==> symptom - logic / symptom - logika <==
+symptom, proof theory structural rule / symptom, reguła strukturalna teorii dowodu
+
+phobia, exchange / fobia, wymiana
+hysteria, weakening / histeria, osłabianie
+obsession, contraction / obsesja, ściąganie
+analysis, cut / analiza, cięcie
+
+==> time / czas <==
+tripartite structure / struktura trójdzielna
+
+instant of seeing, WHNF / chwila widzenia
+time for understanding, HNF / czas na rozumienie
+moment of concluding, NF / moment konkludowania
