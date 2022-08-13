@@ -28,6 +28,10 @@ preposition, ADT, ?sum type / przyimek, ADT, ?typ sumowy
 conjunction, s-expr, AST, logic, monad, monoid, ?product type / spójnik, s-wyrażenie, AST, logika, monada, monoid, ?typ iloczynowy
 interjection, exception; ?real / wykrzyknik, wyjątek; ?realne
 
+question, code | pytanie, kod
+answer, data | odpowiedź, dane
+punctuation, types | interpunkcja, typy
+
 ==> psychoanalysis / psychoanaliza <==
 analysand, invalid / analizant, nieprawidłowy
 analyst, context / analityk, kontekst
