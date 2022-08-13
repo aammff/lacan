@@ -2,7 +2,7 @@ EN / PL
 ==> object lack / brak obiektu <==
 privation, zipper / pozbawienie, zipper
 frustration, weak reference / frustracja, słabe odniesienie
-castration, tail-call elimination / kastracja, eliminacja wywołania ogonowego
+castration, type conversion / kastracja, konwersja typu
 
 ==> lambda calculus / rachunek lambda <==
 alienation, α-conversion / alienacja, α-konwersja
