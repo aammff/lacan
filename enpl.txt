@@ -1,7 +1,7 @@
 EN / PL
 ==> object lack / brak obiektu <==
-privation, hash function / pozbawienie, funkcja skrótu
-frustration, unreachable object / frustracja, nieosiągalny obiekt
+privation, zipper / pozbawienie, zipper
+frustration, weak reference / frustracja, słabe odniesienie
 castration, tail-call elimination / kastracja, eliminacja wywołania ogonowego
 
 ==> lambda calculus / rachunek lambda <==
