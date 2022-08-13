@@ -1,8 +1,12 @@
 EN / PL
 ==> object lack / brak obiektu <==
-privation, segmentation fault / pozbawienie, naruszenie ochrony pamięci
+privation, hash function / pozbawienie, funkcja skrótu
 frustration, unreachable object / frustracja, nieosiągalny obiekt
 castration, tail-call elimination / kastracja, eliminacja wywołania ogonowego
+
+==> lambda calculus / rachunek lambda <==
+alienation, α-conversion / alienacja, α-konwersja
+separation, typed lambda calculus / separacja, rachunek lambda z typami
 
 ==> object petit a <==
 ordered linear logic / uporządkowana logika liniowa
