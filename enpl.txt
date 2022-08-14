@@ -2,7 +2,7 @@ EN / PL
 ==> object lack / brak obiektu <==
 privation, zipper / pozbawienie, zipper
 frustration, weak reference / frustracja, słabe odniesienie
-castration, type conversion / kastracja, konwersja typu
+castration, type system / kastracja, system typów
 
 ==> lambda calculus / rachunek lambda <==
 alienation, α-conversion / alienacja, α-konwersja
@@ -36,12 +36,13 @@ question, code | pytanie, kod
 answer, data | odpowiedź, dane
 punctuation, types | interpunkcja, typy
 
-==> psychoanalysis / psychoanaliza <==
-analysand, invalid / analizant, nieprawidłowy
-analyst, context / analityk, kontekst
-psychoanalysis, invalid context / psychoanaliza, nieprawidłowy kontekst
+sentence diagram, tree | rozbiór logiczny, drzewo
 
-context, call with current continuation / kontekst, wywołanie z bieżącą kontynuacją
+==> psychoanalysis / psychoanaliza <==
+analysand, core dump / analizant, zrzut pamięci
+analyst, debugger / analityk, debugger
+
+psychoanalysis, call with current continuation / psychoanaliza, wywołanie z bieżącą kontynuacją
 psychoanalytical text, serialized current continuation / tekst psychoanalityczny, serializacja bieżącej kontynuacji
 
 ==> rsi <==
