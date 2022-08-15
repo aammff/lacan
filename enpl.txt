@@ -2,11 +2,11 @@ EN / PL
 ==> object lack / brak obiektu <==
 privation, zipper / pozbawienie, zipper
 frustration, weak reference / frustracja, słabe odniesienie
-castration, type system / kastracja, system typów
+castration, anonymous function / kastracja, funkcja anonimowa
 
 ==> lambda calculus / rachunek lambda <==
 alienation, α-conversion / alienacja, α-konwersja
-separation, typed lambda calculus / separacja, rachunek lambda z typami
+separation, λ-abstraction / separacja, λ-abstrakcja
 
 ==> object petit a <==
 ordered linear logic / uporządkowana logika liniowa
