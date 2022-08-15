@@ -39,9 +39,6 @@ punctuation, types | interpunkcja, typy
 sentence diagram, tree | rozbiór logiczny, drzewo
 
 ==> psychoanalysis / psychoanaliza <==
-analysand, core dump / analizant, zrzut pamięci
-analyst, debugger / analityk, debugger
-
 psychoanalysis, call with current continuation / psychoanaliza, wywołanie z bieżącą kontynuacją
 psychoanalytical text, serialized current continuation / tekst psychoanalityczny, serializacja bieżącej kontynuacji
 
@@ -74,7 +71,6 @@ analyst eval / analityka
 master apply / mistrza
 capitalist meta-circular-evaluator / kapitalisty ewaluator-meta-cyrkularny
 
-l schema, side-channel attack / schemat l, atak kanałem bocznym
 jouissance, computation side effect / skutek uboczny obliczeń
 
 graph of desire - comonad / graf pragnienia - komonada
