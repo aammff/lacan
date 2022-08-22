@@ -1,4 +1,5 @@
 EN / PL
+
 ==> object lack / brak obiektu <==
 privation, zipper / pozbawienie, zipper
 frustration, weak reference / frustracja, słabe odniesienie
@@ -72,17 +73,13 @@ jouissance, computation side effect / skutek uboczny obliczeń
 graph of desire - comonad / graf pragnienia - komonada
 graph of sexuation - monad / graf upłciowienia - monada
 
-==> symptom - logic / symptom - logika <==
-symptom, proof theory structural rule / symptom, reguła strukturalna teorii dowodu
-
+==> symptom, proof theory structural rule / symptom, reguła strukturalna teorii dowodu <==
 phobia, exchange / fobia, wymiana
 hysteria, weakening / histeria, osłabianie
 obsession, contraction / obsesja, ściąganie
 analysis, cut / analiza, cięcie
 
-==> time / czas <==
-tripartite structure / struktura trójdzielna
-
+==> tripartite structure of time / struktura trójdzielna czasu <==
 instant of seeing, WHNF / chwila widzenia
 time for understanding, HNF / czas na rozumienie
 moment of concluding, NF / moment konkludowania
