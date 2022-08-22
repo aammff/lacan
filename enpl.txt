@@ -12,8 +12,8 @@ separation, type / separacja, typ
 layer, structure / warstwa, struktura
 
 application, sinthome / aplikacji, sinthome
-presentation, phobia / prezentacji, fobia
-session, neurosis / sesji, neuroza
+presentation, neurosis / prezentacji, neuroza
+session, phobia / sesji, fobia
 transport, unconscious / transportowa, nieświadome
 network, perversion / sieciowa, perwersja
 data link, psychosis / łącza danych, psychoza
