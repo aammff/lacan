@@ -7,3 +7,4 @@ declarative:
 unconscious, database programming
 phobia, logic programming
 neurosis, functional programming
+sinthome, monadic programming
