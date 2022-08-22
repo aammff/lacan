@@ -8,16 +8,14 @@ castration, type / kastracja, typ
 alienation, α-conversion / alienacja, α-konwersja
 separation, type / separacja, typ
 
-==> osi <==
-layer, structure / warstwa, struktura
-
-application, sinthome / aplikacji, sinthome
-presentation, neurosis / prezentacji, neuroza
-session, phobia / sesji, fobia
-transport, unconscious / transportowa, nieświadome
-network, perversion / sieciowa, perwersja
-data link, psychosis / łącza danych, psychoza
-physical, autism / fizyczna, autyzm
+==> osi layer, subject structure, programming paradigm  / warstwa osi, struktura podmiotu, paradygmat programowania <==
+application, sinthome, monadic / aplikacji, sinthome, monadyczne
+presentation, neurosis, functional / prezentacji, neuroza, funkcyjne
+session, phobia, logic / sesji, fobia, logiczne
+transport, unconscious, database / transportowa, nieświadome, bazodanowe
+network, perversion, object oriented / sieciowa, perwersja, zorientowane obiektowo
+data link, psychosis, procedural / łącza danych, psychoza, proceduralne
+physical, autism, assembly / fizyczna, autyzm, asemblerowe
 
 ==> parts of speech / części mowy <==
 noun, variable name; bounded variable; paradigmatic; ?imaginary / rzeczownik, nazwa zmiennej; zmienna związana; paradygmatyczny; ?wyobrażeniowe
