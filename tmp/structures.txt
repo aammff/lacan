@@ -5,5 +5,5 @@ perversion, object oriented programming
 
 declarative:
 unconscious, database programming
-neurosis, functional programming
 phobia, logic programming
+neurosis, functional programming
