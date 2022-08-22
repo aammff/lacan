@@ -8,9 +8,6 @@ castration, type / kastracja, typ
 alienation, α-conversion / alienacja, α-konwersja
 separation, type / separacja, typ
 
-==> object petit a <==
-ordered linear logic / uporządkowana logika liniowa
-
 ==> osi <==
 layer, structure / warstwa, struktura
 
@@ -69,6 +66,7 @@ hysteric lambda / histeryka
 university quote / uniwersytecki
 analyst eval / analityka
 master apply / mistrza
+
 capitalist meta-circular-evaluator / kapitalisty ewaluator-meta-cyrkularny
 
 jouissance, computation side effect / skutek uboczny obliczeń
