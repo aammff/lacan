@@ -56,8 +56,6 @@ master apply / mistrza
 
 capitalist meta-circular-evaluator / kapitalisty ewaluator-meta-cyrkularny
 
-jouissance, computation side effect / skutek uboczny obliczeń
-
 graph of desire - comonad / graf pragnienia - komonada
 graph of sexuation - monad / graf upłciowienia - monada
 
