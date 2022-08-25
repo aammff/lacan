@@ -1,0 +1,2 @@
+phallic, static typing
+feminine, dynamic typing
