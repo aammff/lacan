@@ -1,8 +1,15 @@
-noun, variable name; bounded variable; paradigmatic; ?imaginary
-verb, d(noun)/dt; syntagmatic; ?symbolic, metonymy
-adjective,  noun_1 - noun_2; paradigmatic difference, metaphor
-adverb, d/dt
-pronoun, free variable
-preposition, ADT, ?sum type
-conjunction, s-expr, AST, logic, monad, monoid, ?product type
-interjection, exception; ?real
+==> parts of speech / części mowy <==
+noun, variable name; bounded variable; paradigmatic; ?imaginary / rzeczownik, nazwa zmiennej; zmienna związana; paradygmatyczny; ?wyobrażeniowe
+verb, d(noun)/dt; syntagmatic; ?symbolic, metonymy / czasownik d(rzeczownik)/dt; syntagmatyczny; ?symboliczne, metonimia
+adjective,  noun_1 - noun_2; paradigmatic difference, metaphor / przymiotnik, rzeczownik_1 - rzeczownik_2; różnica paradygmatyczna, metafora
+adverb, d/dt / przysłówek, d/dt
+pronoun, free variable / zaimek, zmienna wolna
+preposition, ADT, ?sum type / przyimek, ADT, ?typ sumowy
+conjunction, s-expr, AST, logic, monad, monoid, ?product type / spójnik, s-wyrażenie, AST, logika, monada, monoid, ?typ iloczynowy
+interjection, exception; ?real / wykrzyknik, wyjątek; ?realne
+
+question, code | pytanie, kod
+answer, data | odpowiedź, dane
+punctuation, types | interpunkcja, typy
+
+sentence diagram, tree | rozbiór logiczny, drzewo
