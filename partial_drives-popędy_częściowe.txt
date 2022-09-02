@@ -14,11 +14,16 @@ D Popęd analny  Odbyt Kał Srać
 d Popęd skopiczny Oczy Spojrzenie Patrzeć 
 d Popęd inwokacyjny Uszy  Głos  Słyszeć
 
+D desire, fractional type / pragnienie, typ ułamkowy
+d demand, negative type / domaganie, typ negatywny
+
 
 Voice / Strona
 active / czynna
 passive / bierna
 middle / zwrotna
+
+--------------------------
 
 patrzeć vs widzieć
 słyszeć vs słuchać
