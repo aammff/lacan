@@ -22,18 +22,3 @@ Voice / Strona
 active / czynna
 passive / bierna
 middle / zwrotna
-
---------------------------
-
-patrzeć vs widzieć
-słyszeć vs słuchać
-
-
-
-empty type
-unit type
-
-inductive type | coinductive type
-
-sum type     |  negative type
-product type | fractional type
