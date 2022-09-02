@@ -1,23 +1,12 @@
-EN
-Table of partial drives
-	PARTIAL DRIVE 	EROGENOUS ZONE 	PARTIAL OBJECT 	VERB
-D 	Oral drive 	Lips 	Breast 	To suck
-D 	Anal drive 	Anus 	Faeces 	To shit
-d 	Scopic drive 	Eyes 	Gaze 	To see
-d 	Invocatory drive 	Ears 	Voice 	To hear 
-
-PL
-Tabela popędów częściowych
-POPĘD CZĘŚCIOWY STREFA EROGENNA OBIEKT CZĘŚCIOWY  CZASOWNIK
-D Popęd oralny  Usta  Pierś Ssać
-D Popęd analny  Odbyt Kał Srać
-d Popęd skopiczny Oczy Spojrzenie Patrzeć 
-d Popęd inwokacyjny Uszy  Głos  Słyszeć
-
 D demand, negative type / domaganie, typ negatywny
 d desire, fractional type / pragnienie, typ ułamkowy
 
-
+Table of partial drives / Tabela popędów częściowych
+	PARTIAL DRIVE 	EROGENOUS ZONE 	PARTIAL OBJECT 	VERB / POPĘD CZĘŚCIOWY STREFA EROGENNA OBIEKT CZĘŚCIOWY  CZASOWNIK
+D 	Oral drive 	Lips 	Breast 	To suck / Popęd oralny  Usta  Pierś Ssać
+D 	Anal drive 	Anus 	Faeces 	To shit / Popęd analny  Odbyt Kał Srać
+d 	Scopic drive 	Eyes 	Gaze 	To see / Popęd skopiczny Oczy Spojrzenie Patrzeć 
+d 	Invocatory drive 	Ears 	Voice 	To hear / Popęd inwokacyjny Uszy  Głos  Słyszeć
 
 Voice / Strona
 active / czynna
