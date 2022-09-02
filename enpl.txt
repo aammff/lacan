@@ -69,3 +69,12 @@ analysis, cut / analiza, cięcie
 instant of seeing, WHNF / chwila widzenia
 time for understanding, HNF / czas na rozumienie
 moment of concluding, NF / moment konkludowania
+
+==> partial drive / popęd częściowy <==
+D demand, negative type / domaganie, typ negatywny
+d desire, fractional type / pragnienie, typ ułamkowy
+
+D oral / oralny
+D anal / analny
+d scopic / skopiczny
+d invocatory / inwokacyjny
