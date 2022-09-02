@@ -13,3 +13,9 @@ D Popęd oralny  Usta  Pierś Ssać
 D Popęd analny  Odbyt Kał Srać
 d Popęd skopiczny Oczy Spojrzenie Patrzeć 
 d Popęd inwokacyjny Uszy  Głos  Słyszeć
+
+
+Voice / Strona
+active / czynna
+passive / bierna
+middle / zwrotna
