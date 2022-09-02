@@ -49,3 +49,21 @@ https://en.wikipedia.org/wiki/Incorporation_(linguistics)
 
 
 virtual memory / paging
+
+
+
+
+--------------------------
+
+patrzeć vs widzieć
+słyszeć vs słuchać
+
+
+
+empty type
+unit type
+
+inductive type | coinductive type
+
+sum type     |  negative type
+product type | fractional type
