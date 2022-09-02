@@ -19,3 +19,6 @@ Voice / Strona
 active / czynna
 passive / bierna
 middle / zwrotna
+
+patrzeć vs widzieć
+słyszeć vs słuchać
