@@ -10,5 +10,5 @@ d 	Invocatory drive 	Ears 	Voice 	To hear / Popęd inwokacyjny Uszy  Głos  Sły
 
 Voice / Strona
 active / czynna
+reflexive / zwrotna
 passive / bierna
-middle / zwrotna
