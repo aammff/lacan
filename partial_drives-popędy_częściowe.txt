@@ -14,8 +14,9 @@ D Popęd analny  Odbyt Kał Srać
 d Popęd skopiczny Oczy Spojrzenie Patrzeć 
 d Popęd inwokacyjny Uszy  Głos  Słyszeć
 
-D desire, fractional type / pragnienie, typ ułamkowy
-d demand, negative type / domaganie, typ negatywny
+D demand, negative type / domaganie, typ negatywny
+d desire, fractional type / pragnienie, typ ułamkowy
+
 
 
 Voice / Strona
