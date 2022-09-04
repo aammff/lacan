@@ -3,11 +3,11 @@ EN / PL
 ==> object lack / brak obiektu <==
 privation, zipper / pozbawienie, zipper
 frustration, weak reference / frustracja, słabe odniesienie
-castration, type / kastracja, typ
+castration, coinductive type / kastracja, typ koindukcyjny
 
 ==> lambda calculus / rachunek lambda <==
 alienation, α-conversion / alienacja, α-konwersja
-separation, type / separacja, typ
+separation, β-reduction / separacja, β-redukcja
 
 ==> osi layer, subject structure, programming paradigm  / warstwa osi, struktura podmiotu, paradygmat programowania <==
 application, sinthome, monadic / aplikacji, sinthome, monadyczne
