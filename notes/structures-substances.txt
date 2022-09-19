@@ -1,7 +1,7 @@
 Autism, Ketamine
 Psychosis, Cannabis
-Perversion, Tobacco
-Unconscious, N2O
+Perversion, N2O
+Unconscious, Tobacco
 Phobia, Psilocybin
 Neurosis, LSD
 Sinthome, DMT
